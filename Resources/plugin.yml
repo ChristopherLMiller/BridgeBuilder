@@ -1,0 +1,4 @@
+name: ${name}
+version: ${project.version}
+author: moose517
+main: com.moosemanstudios.BridgeBuilder.BridgeBuilder
